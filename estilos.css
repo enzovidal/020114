@@ -1,0 +1,107 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	color: #333;
+	font-family: sans-serif;
+	font-size: 14px;
+	text-align: center;
+}
+
+#banner {
+	height: 200px;
+	width: 960px;
+	float: left;
+	background-color: #ccc;
+}
+
+#cabecera {
+	background-color: #333;
+	color:#fff;
+	float: left;
+	width: 100%;
+}
+
+.centrar {
+	margin: 0 auto;
+	position: relative;
+	text-align: left;
+	width: 960px;
+}
+
+#contenedor {
+	float: left;
+	width: 100%;
+}
+
+.contenido {
+	background-color: #fff;
+	border-bottom: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	float: left;
+	padding: 20px;
+	width: 918px;
+}
+
+#formulario {
+	background-color: #999;
+	float: left;
+	min-height: 400px;
+	width: 400px;
+}
+
+#mapa {
+	background-color: #999;
+	float: left;
+	margin-left: 18px;
+	min-height: 400px;
+	width: 500px;
+}
+
+#lateral {
+	background-color: #999;
+	float: left;
+	margin-top: 20px;
+	min-height: 400px;
+	width: 200px;
+}
+
+#logo {
+	width: 200px;
+	float: left;
+	height: 70px;
+	background-color: #f00;
+}
+
+#menu {
+	width: 700px;
+	height: 38px;
+	margin-top: 32px;
+	float: right;
+	background-color: #999;
+}
+
+#principal {
+	background-color: #999;
+	float: left;
+	margin-left: 18px;
+	margin-top: 20px;
+	min-height: 400px;
+	width: 700px;
+}
+
+#slider {
+	background-color: #333;
+	float: left;
+	height: 400px;
+	width: 918px;
+}
+
+#pie {
+	padding:20px 0; 
+	float: left;
+	width: 100%;
+}
